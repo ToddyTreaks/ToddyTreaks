@@ -101,3 +101,10 @@ I'm currently looking for **two internships** in **game development, gameplay pr
 **Email:** thomien.leygonie@gmail.com  
 **Portfolio:** [toddytreaks.itch.io](https://toddytreaks.itch.io)  
 **LinkedIn:** [linkedin.com/thomien-leygonie](https://fr.linkedin.com/in/thomien-leygonie-64b557177)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
